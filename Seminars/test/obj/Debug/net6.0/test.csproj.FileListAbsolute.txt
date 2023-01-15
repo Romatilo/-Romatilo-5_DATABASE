@@ -1,0 +1,5 @@
+D:\!tilo\!Study\5_Database\Seminars\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\!tilo\!Study\5_Database\Seminars\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\!tilo\!Study\5_Database\Seminars\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\!tilo\!Study\5_Database\Seminars\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\!tilo\!Study\5_Database\Seminars\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
