@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!tilo\\!Study\\5_Database\\Seminars\\Transport\\Transport.csproj": {}
+    "C:\\!!Study\\5_DATABASE\\Seminars\\Transport\\Transport.csproj": {}
   },
   "projects": {
-    "D:\\!tilo\\!Study\\5_Database\\Seminars\\Transport\\Transport.csproj": {
+    "C:\\!!Study\\5_DATABASE\\Seminars\\Transport\\Transport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!tilo\\!Study\\5_Database\\Seminars\\Transport\\Transport.csproj",
+        "projectUniqueName": "C:\\!!Study\\5_DATABASE\\Seminars\\Transport\\Transport.csproj",
         "projectName": "Transport",
-        "projectPath": "D:\\!tilo\\!Study\\5_Database\\Seminars\\Transport\\Transport.csproj",
-        "packagesPath": "C:\\Users\\Roma\\.nuget\\packages\\",
-        "outputPath": "D:\\!tilo\\!Study\\5_Database\\Seminars\\Transport\\obj\\",
+        "projectPath": "C:\\!!Study\\5_DATABASE\\Seminars\\Transport\\Transport.csproj",
+        "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
+        "outputPath": "C:\\!!Study\\5_DATABASE\\Seminars\\Transport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Roma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Roman\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
